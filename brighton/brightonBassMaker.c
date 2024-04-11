@@ -221,7 +221,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C1 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C1 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm", BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm", BRIGHTON_CHECKBUTTON},
 	{"", 0, C1 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C1 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -232,7 +232,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C2 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C2 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm", BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm", BRIGHTON_CHECKBUTTON},
 	{"", 0, C2 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C2 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -243,7 +243,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C3 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C3 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C3 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C3 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -254,7 +254,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C4 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C4 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C4 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C4 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -265,7 +265,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C5 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C5 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C5 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C5 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -279,7 +279,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C6 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C6 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C6 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C6 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -293,7 +293,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C7 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C7 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C7 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C7 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -307,7 +307,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C8 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C8 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C8 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C8 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -321,7 +321,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C9 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C9 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C9 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C9 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -335,7 +335,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C10 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C10 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C10 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C10 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -349,7 +349,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C11 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C11 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C11 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C11 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -363,7 +363,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C12 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C12 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C12 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C12 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -377,7 +377,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C13 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C13 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C13 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C13 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -391,7 +391,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C14 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C14 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C14 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C14 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -405,7 +405,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C15 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C15 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C15 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C15 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -419,7 +419,7 @@ static brightonLocations locations[TOTAL_DEVS] = {
 		BRIGHTON_NOTCH},
 	{"", 12, C16 + O3, R5, W3, H3, 0, 4, 0, 0, 0, 0},
 	{"", 2, C16 + O2, R6, W2, H2, 0, 1, 0, "bitmaps/buttons/touchnlw.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 0, C16 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 	{"", 0, C16 + O2, R6, W2, H2, 0, 1, 0, 0, 0, BRIGHTON_WITHDRAWN|BRIGHTON_NOSHADOW},
 
@@ -467,13 +467,13 @@ static brightonLocations bm_controls[CONTROL_COUNT] = {
 		"bitmaps/digits/kbd_d.xpm",	0},
 	/* A/B/C/D select: 10 4 14 */
 	{"", 2, 340, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_a.xpm",
-		"bitmaps/buttons/touchnlW.xpm", BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm", BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 370, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_b.xpm",
-		"bitmaps/buttons/touchnlW.xpm", BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm", BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 400, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_c.xpm",
-		"bitmaps/buttons/touchnlW.xpm", BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm", BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 430, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_d.xpm",
-		"bitmaps/buttons/touchnlW.xpm", BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm", BRIGHTON_CHECKBUTTON|0},
 	/* 6 pad: 14 6 20 */
 	{"", 0, 9, 9, 9, 9, 0, 1, 0, 0, 0, BRIGHTON_NOSHADOW|BRIGHTON_WITHDRAWN},
 	{"", 0, 9, 9, 9, 9, 0, 1, 0, 0, 0, BRIGHTON_NOSHADOW|BRIGHTON_WITHDRAWN},
@@ -497,31 +497,31 @@ static brightonLocations bm_controls[CONTROL_COUNT] = {
 	{"", 12, 270, 730, 11, 85, 0, 4, 0, 0, 0, 0},
 	/* Memory 12: 32 12 44 */
 	{"", 2, 530, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_0.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|BRIGHTON_NOSHADOW},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|BRIGHTON_NOSHADOW},
 	{"", 2, 560, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_1.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|BRIGHTON_NOSHADOW},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|BRIGHTON_NOSHADOW},
 	{"", 2, 590, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_2.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|BRIGHTON_NOSHADOW},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|BRIGHTON_NOSHADOW},
 	{"", 2, 620, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_3.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|BRIGHTON_NOSHADOW},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|BRIGHTON_NOSHADOW},
 	{"", 2, 650, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_4.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 
 	{"", 2, 530, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_5.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 560, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_6.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 590, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_7.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 620, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_8.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 650, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_9.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 
 	{"", 2, 680, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_ld.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 680, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_s.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 	/* Start/Stop + LED */
 	{"", 2, 175, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_st.xpm",
 		"bitmaps/digits/kbd_st.xpm", 0},
@@ -539,13 +539,13 @@ static brightonLocations bm_controls[CONTROL_COUNT] = {
 	{"", 0, 9, 9, 9, 9, 0, 1, 0, 0, 0, BRIGHTON_NOSHADOW|BRIGHTON_WITHDRAWN},
 	/* Display 5: 55 5 60 */
 	{"", 2, 740, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_ua.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 740, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_da.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 2, 950, CR1, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_fn.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON|0},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON|0},
 	{"", 2, 950, CR2, CW1, CH1, 0, 1, 0, "bitmaps/digits/kbd_ret.xpm",
-		"bitmaps/buttons/touchnlW.xpm",BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlwx.xpm",BRIGHTON_CHECKBUTTON},
 	{"", 3, 775, 415, 170, 123, 0, 1, 0, 0,
 		"bitmaps/images/alphadisplay3.xpm", 0}
 };

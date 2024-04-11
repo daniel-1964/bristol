@@ -449,7 +449,7 @@ brightonApp voxM2App = {
 	{
 		{
 			"Drawbars", /* and percussive selections */
-			"bitmaps/blueprints/voxm2.xpm",
+			"bitmaps/blueprints/voxM2bars.xpm",
 			0,
 			BRIGHTON_STRETCH,
 			0,

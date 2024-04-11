@@ -268,39 +268,39 @@ static
 brightonLocations bme700mods[MODS_COUNT] = {
 	/* LOAD */
 	{"", 2, 190, 700, 100, 100, 0, 1, 0, "bitmaps/buttons/touchnlo.xpm",
-		"bitmaps/buttons/touchnlO.xpm", BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlox.xpm", BRIGHTON_CHECKBUTTON},
 
 	/* MEMORY SELECT */
 	{"", 2, 190, 200, 100, 100, 0, 1, 0,
-		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlW.xpm", 0},
+		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlwx.xpm", 0},
 	{"", 2, 390, 200, 100, 100, 0, 1, 0,
-		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlW.xpm", 0},
+		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlwx.xpm", 0},
 	{"", 2, 590, 200, 100, 100, 0, 1, 0,
-		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlW.xpm", 0},
+		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlwx.xpm", 0},
 	{"", 2, 790, 200, 100, 100, 0, 1, 0,
-		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlW.xpm", 0},
+		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlwx.xpm", 0},
 
 	{"", 2, 190, 450, 100, 100, 0, 1, 0,
-		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlW.xpm", 0},
+		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlwx.xpm", 0},
 	{"", 2, 390, 450, 100, 100, 0, 1, 0,
-		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlW.xpm", 0},
+		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlwx.xpm", 0},
 	{"", 2, 590, 450, 100, 100, 0, 1, 0,
-		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlW.xpm", 0},
+		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlwx.xpm", 0},
 	{"", 2, 790, 450, 100, 100, 0, 1, 0,
-		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlW.xpm", 0},
+		"bitmaps/buttons/touchnlw.xpm", "bitmaps/buttons/touchnlwx.xpm", 0},
 
 	/* SAVE */
 	{"", 2, 390, 700, 100, 100, 0, 1, 0, "bitmaps/buttons/touchnlr.xpm",
-		"bitmaps/buttons/touchnlR.xpm", BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlrx.xpm", BRIGHTON_CHECKBUTTON},
 
 	/*
 	 * UP/DOWN was memory but could be MIDI channel. Withdrawn for now since I want to keep
 	 * this panel uncluttered
 	 */
 	{"", 2, 590, 700, 100, 100, 0, 1, 0, "bitmaps/buttons/touchnlg.xpm",
-		"bitmaps/buttons/touchnlG.xpm", BRIGHTON_CHECKBUTTON},
+		"bitmaps/buttons/touchnlgx.xpm", BRIGHTON_CHECKBUTTON},
 	{"", 2, 790, 700, 100, 100, 0, 1, 0, "bitmaps/buttons/touchnlo.xpm",
-		"bitmaps/buttons/touchnlO.xpm", 0},
+		"bitmaps/buttons/touchnlox.xpm", 0},
 };
 
 static
